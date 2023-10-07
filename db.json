@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "name": "Brownies Panggang",
+      "desc": "Brownies panggang terasa crispy bagian atasnya. Tetapi bagian dalamnya bertekstur lembut.   Artikel ini telah tayang di TribunBatam.id dengan judul Brownies Panggang Ini Crispy Tapi Lembut di Lidah. ",
+      "price": "30000",
+      "img": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/19/dcd69ca7-0d10-4267-b976-d9b96e317613.jpg",
+      "id": 1
+    },
+    {
+      "name": "Bolu susu lembang",
+      "desc": "bolu susu dengan banyak varian rasa ",
+      "price": "30000",
+      "img": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/18/982bb0f8-e354-4ee5-8194-3d474ae5faf6.jpg",
+      "id": 2
+    },
+    {
+      "name": "Pie Susu Lembang",
+      "desc": "pie susu lembang yang tersedia dengan 10 varian rasa dan memiliki tekstur pie yang super crunchy dan toping yang lezat untuk disantap.",
+      "price": "20000",
+      "img": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/18/30cd4a59-6221-4c5b-9bed-6882c341b7c1.jpg",
+      "id": 3
+    },
+    {
+      "name": "Cheese Chiffon Cake",
+      "desc": "chifon rasa keju dan memiliki tekstur yang lembut",
+      "price": "35000",
+      "img": "https://down-id.img.susercontent.com/file/id-11134207-23020-al4hvltyhynvf8",
+      "id": 4
+    },
+    {
+      "name": "Kue Balok Pasopati",
+      "desc": "tekstur lembut dengan isi coklat yang meleleh",
+      "price": "30000",
+      "img": "https://down-id.img.susercontent.com/file/c58d1eb33e859db00cabccf0fe79639d",
+      "id": 5
+    },
+    {
+      "name": "Pie Pisang Coklat",
+      "desc": "pie pisang yang memilki tekstur yang renyah dan isi coklat yang lumer",
+      "price": "32000",
+      "img": "https://scontent.fcgk29-1.fna.fbcdn.net/v/t39.30808-6/255457081_429035771955675_9173526653625791126_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=bcc5cc&_nc_ohc=ka_IQUebs8QAX9M2pbK&_nc_ht=scontent.fcgk29-1.fna&oh=00_AfD2zl2s3TpZRp2qh0kbR7_OedQaCfYBp3P_orv2Ktl3mw&oe=65259415",
+      "id": 6
+    }
+  ]
+}
